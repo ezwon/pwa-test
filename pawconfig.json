@@ -1,0 +1,8 @@
+{
+  "port": "9090",
+  "host": "localhost",
+  "appRootUrl": "",
+  "serviceWorker": false,
+  "serverSideRender": false,
+  "singlePageApplication": false
+}
